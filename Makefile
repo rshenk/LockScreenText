@@ -1,4 +1,4 @@
-THEOS_DEVICE_IP = 192.168.1.103
+THEOS_DEVICE_IP = xxx.xxx.x.xxx
 export ARCHS = armv7 armv7s arm64
 export TARGET = iphone:clang:7.0:7.0
 include theos/makefiles/common.mk
