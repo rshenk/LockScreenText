@@ -1,0 +1,10 @@
+Package: com.rshenk.lockscreentext
+Name: LockScreenText
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Changes text of lockscreen.
+Maintainer: rshenk
+Author: rshenk
+Section: Tweaks
+Version: 0.0.1-2
+Installed-Size: 88
